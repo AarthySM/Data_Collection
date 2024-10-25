@@ -29,7 +29,7 @@ You can view and participate in the survey here:
 
 ## Skills Gained
 
-- *Data Variable Identification:* How to select relevant data points for in-depth analysis.
-- *Survey Design:* Proficiency in *Google Forms* for building structured surveys.
-- *Question Development:* Skills in creating clear, inclusive, and actionable survey questions.
-- *Data Collection Strategy:* Learned the importance of friendly, approachable language to improve response rates.
+- **Data Variable Identification:** How to select relevant data points for in-depth analysis.
+- **Survey Design:** Proficiency in *Google Forms* for building structured surveys.
+- **Question Development:** Skills in creating clear, inclusive, and actionable survey questions.
+- **Data Collection Strategy:** Learned the importance of friendly, approachable language to improve response rates.
